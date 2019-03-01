@@ -1,2 +1,1 @@
 * Redskull
-* Capitán America
